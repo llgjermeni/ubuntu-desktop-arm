@@ -62,7 +62,7 @@
         },
         "defaultValue": "https://raw.githubusercontent.com/llgjermeni/ubuntu-desktop-arm/main/"
       }
-    },
+    }, 
     "variables": {
       "imagePublisher": "Canonical",
       "imageOffer": "UbuntuServer",
@@ -97,7 +97,7 @@
         "properties": {
           "publicIPAllocationMethod": "Dynamic",
           "dnsSettings": {
-           "domainNameLabel": "ubuntu-desktop"
+           "domainNameLabel": "ubuntudesktop"
           }
         }
       },

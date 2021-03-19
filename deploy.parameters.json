@@ -6,10 +6,10 @@
         "value": "ubuntu-desktop"
       },
       "adminUsername": {
-        "value": "llazar"
+        "value": ""
       },
       "adminPasswordOrKey": {
-        "value": "Hollywood@2020"
+        "value": ""
       }
     }
   }
